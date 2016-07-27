@@ -2,7 +2,7 @@
 #!/usr/bin/python
 
 #Unisec imports
-
+import nmap 
 from lib.common import 
 
 print """
